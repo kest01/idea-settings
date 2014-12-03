@@ -13,5 +13,6 @@
     <toolWindow group="LiveEdit" />
     <toolWindow group="Flash app not compiled before launch" />
     <toolWindow group="Web Deployment: File Transfer" />
+    <toolWindow group="Vcs Messages" />
   </component>
 </application>
