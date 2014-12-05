@@ -15,5 +15,21 @@
     <property name="Non-Project Files" value="Yellow" />
     <property name="Tests" value="Green" />
     <property name="Copy.OpenInEditor" value="true" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="test_tree_console_proprtion" value="0.2" />
+    <property name="file.chooser.recent.files" value="C:/Java/MongoDB/bin/mongo.exe" />
+    <property name="junit_statistics_table_columnsWidth0" value="75" />
+    <property name="junit_statistics_table_columnsOrder0" value="0" />
+    <property name="junit_statistics_table_columnsWidth1" value="75" />
+    <property name="junit_statistics_table_columnsOrder1" value="1" />
+    <property name="junit_statistics_table_columnsWidth2" value="75" />
+    <property name="junit_statistics_table_columnsOrder2" value="2" />
+    <property name="junit_statistics_table_columnsWidth3" value="75" />
+    <property name="junit_statistics_table_columnsOrder3" value="3" />
+    <property name="junit_statistics_table_columnsWidth4" value="75" />
+    <property name="junit_statistics_table_columnsOrder4" value="4" />
+    <property name="junit_statistics_table_columnsWidth5" value="75" />
+    <property name="junit_statistics_table_columnsOrder5" value="5" />
+    <property name="FindSplitterProportion" value="0.25" />
   </component>
 </application>
